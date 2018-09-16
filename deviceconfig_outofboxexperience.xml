@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationSet xmlns="http://schemas.motorolasolutions.com/FusionDeviceConfig/Oobe" version="1.0">
+	<FusionDeviceConfiguration>
+		<OutOfBoxExperienceConfig>
+			<ConfigMode>cloud</ConfigMode>
+		</OutOfBoxExperienceConfig>
+	</FusionDeviceConfiguration>
+</ConfigurationSet>
