@@ -1,6 +1,21 @@
+add
+
+add
+
 make cleanall
-export NDK_ROOT=/home/android/android-ndk-r10e
-make -j30 TARGET_PLATFORM=android LINKED_CODECS=AMBE,AMRWB,ACELP  HAS_FEATURE_SPGTLS=1
-make -j30 TARGET_PLATFORM=android LINKED_CODECS=AMBE,AMRWB,ACELP  HAS_FEATURE_SPGTLS=1 debug=1
-make -j30 TARGET_PLATFORM=android LINKED_CODECS=AMBE,AMRWB,ACELP  debug=1
-make -j30 TARGET_PLATFORM=android LINKED_CODECS=AMBE,AMRWB,ACELP
+export NDK_ROOT=/haddome/android/android-ndk-r10e
+make -j30 TARGET_PLATFORaddM=android LINKED_CODECS=AMBE,,ACELP  HAS_FEATURE_SPGTLS=1
+make -j30 TARGETaddd_PLATFORM=android LINKED_CODECS=AMBE,,ACELP  HAS_FEATURE_SPGTLS=1 debug=1
+makeTARaddGET_PLATFORM=android LINKED_CODECS=,AMRWB,ACELP  debug=1
+
+
+add
+
+add
+
+add
+
+
+
+
+add
